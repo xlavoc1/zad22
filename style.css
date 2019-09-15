@@ -1,0 +1,14 @@
+html{
+    font-family: arial;
+}
+p{
+    color: green;
+}
+h1, h3{
+    background-color: skyblue;
+}
+
+h1+h3 {
+    color: tomato;
+}
+
